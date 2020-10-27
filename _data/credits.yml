@@ -1,0 +1,44 @@
+- name: CoolStar
+  github: coolstar
+  twitter: CStar_OW
+  role: Lead Developer
+
+- name: Hayden Seay
+  role: Developer
+  github: Diatrus
+  twitter: Diatrus
+
+- name: 23 Aaron
+  github: 23aaron
+  twitter: 23aaron_
+  role: Web & App Developer
+
+- name: Tihmstar
+  github: tihmstar
+  twitter: tihmstar
+  role: Exploit Developer 
+  
+- name: SlimShadyIAm
+  github: slimshadyiam
+  twitter: slimshadydev
+  role: Site Contributor
+
+- name: MegaDev
+  github: MegaDevIOS
+  twitter: omegaluldev
+  role: Site Contributor
+
+- name: Adam
+  github: marijuanARM
+  twitter: marijuanARM
+  role: Installation Guide
+
+- name: Jason
+  github: syns 
+  twitter: whobesyns
+  role: AltStore Repo
+
+- name: Burrito
+  github: burritosoftware
+  twitter: burritosoftware
+  role: Shortcut Maintainer

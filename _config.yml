@@ -1,0 +1,6 @@
+permalink: /:categories/:title:output_ext
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" class="{% if page.class %}{{ page.class }}{% endif %}">
+	<head>
+		<meta name="google-assets-verification" content="V91Xt8plPRa56Ej5hb6vSuOGjFA7dTmdTfQYUMaDgqU"/>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>{% if page.title %}{{ page.title }} &middot; {% endif %}Odyssey</title>
+
+		<!-- Favicons -->
+		<link rel="shortcut icon" href="/assets/images/favicon.png"/>
+		<link rel="apple-touch-icon" href="/assets/images/icon.png"/>
+		<link rel="icon" type="image/png" sizes="180x180" href="/assets/images/icon.png"/>
+		<link rel="manifest" href="/assets/images/manifest.json" />
+		<meta name="msapplication-TileColor" content="#cf86fa" />
+		<meta name="msapplication-TileImage" content="/assets/images/icon.png"/>
+		<meta name="theme-color" content="#cf86fa" />
+		<!-- Favicons  -->
+
+		<!-- Primary Meta Tags -->
+		<title>Odyssey</title>
+		<meta name="title" content="Odyssey" />
+		<meta name="description" content="A new jailbreak for a new era." />
+
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="webassets" />
+		<meta property="og:url" content="https://theodyssey.dev" />
+		<meta property="og:title" content="Odyssey" />
+		<meta property="og:description" content="A new jailbreak for a new era."/>
+		<meta property="og:image" content="https://theodyssey.dev/assets/images/meta.png" />
+
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content="https://theodyssey.dev" />
+		<meta property="twitter:title" content="Odyssey" />
+		<meta property="twitter:description" content="A new jailbreak for a new era."/>
+		<meta property="twitter:image" content="https://theodyssey.dev/assets/images/meta.png"/>
+
+		<!-- Bootstrap -->
+		<script src="https://kit.fontawesome.com/3e816b0875.js" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha256-aAr2Zpq8MZ+YA/D6JtRD3xtrwpEz2IqOS+pWD/7XKIw=" crossorigin="anonymous" />
+		<link rel="stylesheet" href="/assets/css/styles.css" />
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha512-I5TkutApDjnWuX+smLIPZNhw+LhTd8WrQhdCKsxCFRSvhFx2km8ZfEpNIhF9nq04msHhOkE8BMOBj5QE07yhMA==" crossorigin="anonymous"></script>
+		<script src="/assets/js/main.js"></script> 
+	</head>
+	<body>
+		<!-- Bootstrap Brand Bar -->
+		<header class="hero-jumbo">
+
+
+
+		<nav class="navbar navbar-light fixed-top clearbg">
+			<div class="container-fluid">
+				<a class="navbar-brand" href="/">
+					<h2>Odyssey</h2>
+				</a>
+				<div class="ml-autok">
+					<div class="nav-downloa-section"> 
+
+
+					
+                  
+					<a href="/#download" class="btn btn-primary btn-download">
+						<svg class="mr-1 icon icon-download" viewBox="0 0 81 81">
+							<path d="m40.7285 80.63867c21.8262 0 39.8926-18.06637 39.8926-39.89257 0-21.7773-18.1152-39.8926-39.9414-39.8926s-39.84376 18.1153-39.84376 39.8926c0 21.8262 18.06636 39.89257 39.89256 39.89257zm0-18.26167c-1.2207 0-2.1973-.4395-3.2715-1.5137l-13.5254-13.7695c-.7324-.7813-1.0742-1.6114-1.0742-2.7344 0-2.1485 1.5625-3.7598 3.711-3.7598 1.123 0 2.1484.4883 2.7832 1.1719l4.1504 4.4433 3.5644 4.5899-.3906-9.1309v-18.5058c0-2.295 1.709-3.9063 4.0527-3.9063 2.2949 0 4.0527 1.6113 4.0527 3.9063v18.5058l-.4394 9.1309 3.6133-4.6387 4.1504-4.3945c.6836-.6836 1.6601-1.1719 2.7832-1.1719 2.1484 0 3.7597 1.6113 3.7597 3.7598 0 1.123-.4394 1.9531-1.123 2.7344l-13.5254 13.7695c-.9766 1.0254-2.002 1.5137-3.2715 1.5137z"/>
+						</svg>
+						{% assign latest_post = site.posts.first %}
+						Download
+						<span class="ml-1 d-none d-md-inline">({{ latest_post.title | escape }})</span>
+					</a>
+				</div>
+				</div>
+			</div>
+		</nav>
+
+		<!-- Hero Header -->
+		<section id="hero-container">
+			<div class="">
+				<h1 class="hero-text">
+					<a href="/">Odyssey</a>
+				</h1>
+				<p class="lead hero-subtext">A new jailbreak for a new era.</p>
+				<div class="styles">
+					<div id="classic"></div><div id="dark"></div><div id="Meridian"></div>
+				</div>
+				
+			</div>
+		</section>
+
+	</header>

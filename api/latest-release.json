@@ -1,0 +1,8 @@
+---
+---
+{   
+    {% assign latest_post = site.posts.first %}
+    "versionNumber": "{{ latest_post.title }}",
+    "latestBlog": "https://theodyssey.dev/releases/{{ latest_post.title }}",
+    "downloadLink": "https://theodyssey.dev/downloads/Odyssey-{{ latest_post.title }}.ipa"
+}

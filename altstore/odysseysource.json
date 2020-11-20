@@ -11,7 +11,7 @@
       "version": "1.1.2",
       "versionDate": "2020-09-16",
       "versionDescription": "First Release",
-      "downloadURL": "https://theodyssey.dev/downloads/Odyssey-1.1.2.ipa",
+      "downloadURL": "https://github.com/TheOdysseyJB/Odyssey/releases/download/1.1.2/Odyssey-1.1.2.ipa",
       "localizedDescription": "Supporting iOS Versions: 13.0 - 13.3 & 13.4-13.5.\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
       "iconURL": "https://theodyssey.dev/assets/images/icon.png",
       "tintColor": "D287F4",

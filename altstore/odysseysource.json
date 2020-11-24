@@ -10,7 +10,7 @@
       "subtitle": "A new jailbreak for a new era.",
       "version": "1.2",
       "versionDate": "2020-11-20",
-      "versionDescription": "13.5.1-13.7 Update",
+      "versionDescription": "Now with support from 13.0 all the way to 13.7.",
       "downloadURL": "https://github.com/TheOdysseyJB/Odyssey/releases/download/1.2/Odyssey-1.2.ipa",
       "localizedDescription": "Supporting iOS Versions: 13.0 - 13.7.\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
       "iconURL": "https://theodyssey.dev/assets/images/icon.png",
@@ -25,6 +25,16 @@
     }
   ],
   "news": [
+    {
+      "title": "Odyssey 1.2 now available!",
+      "identifier": "odyssey-x-altstore",
+      "caption": "Supports iOS 13.0-13.7",
+      "tintColor": "D287F4",
+      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
+      "appID": "org.coolstar.odyssey",
+      "date": "2020-11-24",
+      "notify": true
+    },
     {
       "title": "Odyssey Now Available!",
       "identifier": "odyssey-x-altstore",

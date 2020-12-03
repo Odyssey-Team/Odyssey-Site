@@ -16,4 +16,4 @@ Odyssey Website by: [23Aaron](https://github.com/23Aaron)<br/>
 Contributors: [marijuanARM](https://github.com/marijuanARM), [MegaDev](https://github.com/MegaDevIOS), [SlimShadyIAm](https://github.com/SlimShadyIAm), and [syns](https://github.com/syns)
 
 ### License
-This project is licensed under BSD 3-Clause "New" or "Revised" License, read more about it [here](https://choosealicense.com/licenses/bsd-3-clause/).
+This project is licensed under All Rights Reserved.

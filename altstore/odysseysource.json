@@ -27,7 +27,7 @@
   "news": [
     {
       "title": "Odyssey 1.2 now available!",
-      "identifier": "odyssey-x-altstore",
+      "identifier": "odyssey-1.2-available",
       "caption": "Supports iOS 13.0-13.7",
       "tintColor": "D287F4",
       "imageURL": "https://theodyssey.dev/assets/images/meta.png",
@@ -53,7 +53,7 @@
       "url": "https://altstore.theodyssey.dev",
       "date": "2020-08-12T12:59:00-07:00",
       "notify": false
-    },
+    }
   ],
   "userInfo": {}
 }

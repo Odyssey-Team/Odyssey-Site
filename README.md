@@ -5,7 +5,7 @@
 <a href="#"><img src="https://i.imgur.com/y4oV9VV.png" alt="colored line"></a>
 
 This repository acts as both a AltStore repository and website for hosting</br>
-the open-source semi-untethered jailbreak, **[Odyssey](https://github.com/TheOdysseyJB/Odyssey)**.</br>
+the open-source semi-untethered jailbreak, **[Odyssey](https://github.com/Odyssey-Team/Odyssey)**.</br>
 
 <a href="#credits"><img src="https://i.imgur.com/y4oV9VV.png" alt="colored line"></a>
 

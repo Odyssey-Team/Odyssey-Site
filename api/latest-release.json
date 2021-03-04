@@ -4,5 +4,5 @@
     {% assign latest_post = site.posts.first %}
     "versionNumber": "{{ latest_post.title }}",
     "latestBlog": "https://theodyssey.dev/releases/{{ latest_post.title }}",
-    "downloadLink": "https://github.com/TheOdysseyJB/Odyssey/releases/download/{{ latest_post.title }}/Odyssey-{{ latest_post.title }}.ipa"
+    "downloadLink": "https://github.com/Odyssey-Team/Odyssey/releases/download/{{ latest_post.title }}/Odyssey-{{ latest_post.title }}.ipa"
 }

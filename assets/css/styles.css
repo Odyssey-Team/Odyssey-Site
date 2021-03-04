@@ -366,6 +366,7 @@ transform: translateY(-37vh);
 
 .btn-twitter:hover {
 	background-color: #0190c8;
+	border-color: #0190c8;
 }
 
 .btn-download .icon {

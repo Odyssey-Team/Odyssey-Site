@@ -359,6 +359,15 @@ transform: translateY(-37vh);
 	display: inline-flex;
 }
 
+.btn-twitter {
+	background-color: #00acee;
+	border-color: #00acee;
+}
+
+.btn-twitter:hover {
+	background-color: #0190c8;
+}
+
 .btn-download .icon {
 	margin-right: 0.2em;
 }
@@ -448,9 +457,7 @@ transform: translateY(-40vh)!important;
 }
 
 @media (max-width: 968px) {
-	.btn-download {
-		width: 100%;
-	}
+
 	.megadev-is-hot{
 		flex-direction: column;
 		align-items: flex-start;
@@ -485,6 +492,16 @@ transform: translateY(-50vh);
 		
 	}
 }
+
+@media (max-width: 970px) {
+
+	.btn-download{
+		margin-bottom: 10px;
+	}
+
+}
+
+@media
 
 @media (min-width: 1400px) {
 	/* lg */

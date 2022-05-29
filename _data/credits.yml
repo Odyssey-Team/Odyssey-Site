@@ -34,8 +34,8 @@
   role: Installation Guide
 
 - name: Jason
-  github: syns 
-  twitter: goodboyqdx
+  github: arceseus 
+  twitter: arceseus
   role: AltStore Repo
 
 - name: Burrito

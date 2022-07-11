@@ -4,9 +4,9 @@
   role: Lead Developer
 
 - name: Hayden Seay
-  role: Developer
   github: Diatrus
   twitter: Diatrus
+  role: Developer
 
 - name: 23 Aaron
   github: 23aaron
@@ -20,7 +20,7 @@
   
 - name: SlimShadyIAm
   github: slimshadyiam
-  twitter: slimshadydev
+  twitter: optionnull
   role: Site Contributor
 
 - name: MegaDev
@@ -29,13 +29,13 @@
   role: Site Contributor
 
 - name: Adam
-  github: marijuanARM
+  github: m1stadev
   twitter: _m1sta
   role: Installation Guide
 
 - name: Jason
-  github: arceseus 
-  twitter: arceseus
+  github: localdevice 
+  twitter: localdevice
   role: AltStore Repo
 
 - name: Burrito

@@ -1,6 +1,6 @@
 {
   "name": "Odyssey",
-  "identifier": "org.coolstar.odysseyaltstore",
+  "identifier": "dev.theodyssey.sidestore",
   "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json",
   "apps": [
     {
@@ -22,36 +22,36 @@
         "https://theodyssey.dev/assets/images/ss-2.png",
         "https://theodyssey.dev/assets/images/ss-3.png"
       ]
+    },
+    {
+      "name": "Taurine",
+      "bundleIdentifier": "com.odysseyteam.taurine",
+      "developerName": "Odyssey Team",
+      "subtitle": "Time to get amped.",
+      "version": "1.1.6",
+      "versionDate": "2022-04-20",
+      "versionDescription": "-Fixed arm64e on 14.2 and 14.3",
+      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+      "localizedDescription": "Taurine is an iOS 14.0-14.3 jailbreak, utilising Procursus and Libhooker.",
+      "iconURL": "https://taurine.app/assets/images/icon.png",
+      "tintColor": "F65656",
+      "size": 31500000,
+      "beta": false,
+      "screenshotURLs": [
+        "https://taurine.app/assets/images/ss-1.png",
+        "https://taurine.app/assets/images/ss-2.png",
+        "https://taurine.app/assets/images/ss-3.png"
+      ]
     }
   ],
   "news": [
-    {
-      "title": "Odyssey 1.2 now available!",
-      "identifier": "odyssey-1.2-available",
-      "caption": "Supports iOS 13.0-13.7",
-      "tintColor": "D287F4",
-      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "org.coolstar.odyssey",
-      "date": "2020-11-24",
-      "notify": true
-    },
-    {
-      "title": "Odyssey Now Available!",
-      "identifier": "odyssey-x-altstore",
-      "caption": "A new jailbreak for a new era.",
-      "tintColor": "D287F4",
-      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "org.coolstar.odyssey",
-      "date": "2020-08-20",
-      "notify": true
-    },
 	    {
       "title": "Odyssey Source",
       "identifier": "welcome-to-odysseysource",
-      "caption": "It's official. Odyssey is distributing via AltStore.",
+      "caption": "It's official. Odyssey Team is distributing via SideStore.",
       "tintColor": "D287F4",
       "url": "https://altstore.theodyssey.dev",
-      "date": "2020-08-12T12:59:00-07:00",
+      "date": "2023-07-09T12:59:00-07:00",
       "notify": false
     }
   ],
